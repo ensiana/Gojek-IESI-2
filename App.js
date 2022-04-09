@@ -19,7 +19,7 @@ import Result from "./src/screens/Result";
 const App: () => Node = () => {
   return (
     <>
-      <DestinationScreen />
+      <HomeScreen />
     </>
   );
 };
